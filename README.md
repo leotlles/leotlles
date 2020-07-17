@@ -1,7 +1,9 @@
-### Leonardo 👋
+<h1 align="center">Leonardo</h1>
 
-<hr>
 NAME: Leonardo
-NICK: trustindestiny
-STACK: Javascript
-I live in Magé, Rio de Janeiro and i'm 18 years old. Just Graduated on Systems Development and Analysis.
+
+STACK: **Javascript**
+
+AGE: 18
+
+I live in Magé, **Rio de Janeiro**. Just Graduated on Systems Development and Analysis.
