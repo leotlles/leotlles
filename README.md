@@ -2,7 +2,7 @@
 
 **NAME**: Leonardo
 
-**STACK**: PHP
+**STACK**: PHP (and probably Elixir in future)
 
 **AGE**: 18
 
