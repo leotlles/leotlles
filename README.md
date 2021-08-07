@@ -1,8 +1,8 @@
 <h1 align="center"> <i> <strong> HI THERE, I'M LEO </h1> </strong> </i>
 
-<p align="left"> 
-  <i> 📍 <strong>Rio de Janeiro </strong>, Just Graduated on Systems Development and Analysis. </i> 
-</p> 
+  <p align="left"> 
+  <i>🗺️ -<strong> Rio de Janeiro</strong>, Just Graduated on Systems Development and Analysis. </i> 
+  </p> 
 
   <p align="left">
   <i>📊 - Data Science Student. </i>
