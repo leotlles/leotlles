@@ -1,8 +1,8 @@
-<p align="center"> <i> <strong> HI THERE, I'M LEO </p> </strong> </i> <hr>
+<h1 align="center"> <i> <strong> HI THERE, I'M LEO </h1> </strong> </i>
 
 <p align="left"> 
 <i> 📍 **Rio de Janeiro**, Just Graduated on Systems Development and Analysis. </i> 
-</p> <hr>
+</p> 
 
   <p align="left">
   <i>📊 - Data Science Student. </i>
@@ -16,9 +16,7 @@
   <i>📅 - 19 years old. </i>
   </p>
   
-  <hr>
-   
-  <p align="left">
+  <p align="center">
   <a href="https://www.instagram.com/zinleo11/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Leonardo Talles-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/zinleo11"/>
   </a>
