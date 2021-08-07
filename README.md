@@ -1,12 +1,33 @@
-<h1 align="center">Leonardo</h1>
+<p align="center"> <i> <strong> HI THERE, I'M LEO </p> </strong> </i> <hr>
 
-**NAME**: Leonardo 
+<p align="left"> 
+<i> 📍 **Rio de Janeiro**, Just Graduated on Systems Development and Analysis. </i> 
+</p> <hr>
 
-**AGE**: 19
+  <p align="left">
+  <i>📊 - Data Science Student. </i>
+  </p>
 
-**Rio de Janeiro**. Just Graduated on Systems Development and Analysis.
-
-**DATA SCIENCE STUDENT**
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/zinleo11?style=social)](https://twitter.com/zinleo11)
-[![Linkedin: leonardo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-talles1/)](https://www.linkedin.com/in/leonardo-talles1/)
+  <p align="left"> 
+  <i>🖥️ - Studying Python, Machine Learning and Analytics.</i>
+  </p>
+   
+  <p align="left">
+  <i>📅 - 19 years old. </i>
+  </p>
+  
+  <hr>
+   
+  <p align="left">
+  <a href="https://www.instagram.com/zinleo11/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Leonardo Talles-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/zinleo11"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/leonardo-talles1/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Leonardo Talles-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/leonardo-talles1/"/>
+  </a>
+  
+  <a href="https://www.discord.app/" alt="Discord">
+    <img src="https://img.shields.io/badge/-zinleo11 -1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link=https://discord.app"/>
+  </a>
+    </p>
