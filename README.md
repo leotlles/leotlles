@@ -1,7 +1,7 @@
 <h1 align="center"> <i> <strong> HI THERE, I'M LEO </h1> </strong> </i>
 
 <p align="left"> 
-<i> 📍 **Rio de Janeiro**, Just Graduated on Systems Development and Analysis. </i> 
+  <i> 📍 <strong>Rio de Janeiro </strong>, Just Graduated on Systems Development and Analysis. </i> 
 </p> 
 
   <p align="left">
