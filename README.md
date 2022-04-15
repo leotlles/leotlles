@@ -22,14 +22,10 @@
   
   <p align="center">
   <a href="https://www.instagram.com/leotalless/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Leonardo Talles-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/zinleo11"/>
+    <img src="https://img.shields.io/badge/-Leonardo Talles-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/leotalless"/>
   </a>
   
   <a href="https://www.linkedin.com/in/leonardo-talles1/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Leonardo Talles-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/leonardo-talles1/"/>
   </a>
   
-  <a href="https://www.discord.app/" alt="Discord">
-    <img src="https://img.shields.io/badge/-zinleo11 -1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link=https://discord.app"/>
-  </a>
-    </p>
