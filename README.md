@@ -20,15 +20,17 @@ ___________________/  /__/  /__/  /__/  /________________________________
 ```
 leoTalles@github
 -------------------------
-💻 OS: Linux Mint 19.3 Tricia - Xfce 
 🏫 System Development and Analysis in @UNESA
+💻 OS: Linux Mint 19.3 Tricia - Xfce 
+🖌️ Theme and Icons: Dracula, Sweet Rainbow
 💖 Member of @He4rtDevs
 🏴‍☠️ Learning about Data Science and Machine Learning stuff
 🔎 Main interests in AI and Machine Learning
-🌟 Stack: Python, SQL, Elixir
-🖌️ Love watching animes, tv shows, NBA and Soccer (VASCO DA GAMA)
+🐍 Stack: Python
+📺 Love watching animes, tv shows, NBA and Soccer (VASCO DA GAMA)
 🎵 Love rock, emotrap, r&b and rap
-⚡ Love indie 2d games like Stardew Valley, Blasphemous, etc
+🎮 Love indie 2d games like Stardew Valley, Blasphemous, etc
+🍔 Hamburguer is my favorite food (I know a secret to make the best one)
 ```
 
 <p align="left">
