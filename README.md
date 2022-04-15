@@ -20,17 +20,15 @@ ___________________/  /__/  /__/  /__/  /________________________________
 ```
 leoTalles@github
 -------------------------
+💻 OS: Linux Mint 19.3 Tricia - Xfce 
 🏫 System Development and Analysis in @UNESA
 💖 Member of @He4rtDevs
+🏴‍☠️ Learning about Data Science and Machine Learning stuff
 🔎 Main interests in AI and Machine Learning
-🌱 Learning about Data Science and Machine Learning stuff
-🌟 Main languages: Python, Elixir
-🏴‍☠️ Currently involved in CTF competitions and sysadmin tasks
+🌟 Stack: Python, SQL, Elixir
 🖌️ Love watching animes, tv shows, NBA and Soccer (VASCO DA GAMA)
 🎵 Love rock, emotrap, r&b and rap
 ⚡ Love indie 2d games like Stardew Valley, Blasphemous, etc
-💻 Total commits: {{ COMMITS }}
-⭐ Total start gained: {{ STARS }}
 ```
 
 <p align="left">
