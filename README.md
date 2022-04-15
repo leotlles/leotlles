@@ -27,7 +27,8 @@ leoTalles@github
 🏴‍☠️ Learning about Data Science and Machine Learning stuff
 🔎 Main interests in AI and Machine Learning
 🐍 Stack: Python
-📺 Love watching animes, tv shows, NBA and Soccer (VASCO DA GAMA)
+🛰️ The 100 is underrated
+📺 Love watching animes, TV shows, NBA and Soccer (VASCO DA GAMA)
 🎵 Love rock, emotrap, r&b and rap
 🎮 Love indie 2d games like Stardew Valley, Blasphemous, etc
 🍔 Love hamburguers (I know a secret to make the best one)
