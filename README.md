@@ -30,7 +30,7 @@ leoTalles@github
 📺 Love watching animes, tv shows, NBA and Soccer (VASCO DA GAMA)
 🎵 Love rock, emotrap, r&b and rap
 🎮 Love indie 2d games like Stardew Valley, Blasphemous, etc
-🍔 Hamburguer is my favorite food (I know a secret to make the best one)
+🍔 Love hamburguers (I know a secret to make the best one)
 ```
 
 <p align="left">
