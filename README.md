@@ -21,6 +21,7 @@ ___________________/  /__/  /__/  /__/  /________________________________
 leoTalles@github
 -------------------------
 🏫 System Development and Analysis in @UNESA
+💌 leotalles16@gmail.com
 💻 OS: Linux Mint 19.3 Tricia - Xfce 
 🖌️ Theme and Icons: Dracula, Sweet Rainbow
 💖 Member of @He4rtDevs
