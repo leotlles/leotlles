@@ -1,11 +1,20 @@
 ```console
 leoTalles@github:~$ ./welcome.sh
 ```
+```
+_____________________________________
+<leoTalles as know as trustindestiny>
+------------------------------------- 
+                      __    __    __    __
+                     /  \  /  \  /  \  /  \
+____________________/  __\/  __\/  __\/  __\_____________________________
+___________________/  /__/  /__/  /__/  /________________________________
+                   | / \   / \   / \   / \  \____
+                   |/   \_/   \_/   \_/   \    o \          <-- PYTHON
+                                           \_____/--<      
+```
 
-[![@trustindestiny's Holopin board](https://holopin.me/trustindestiny)](https://holopin.io/@trustindestiny)
-
-
-<img align="left" src="/img/he4rt2.png" alt="@He4rtDevelopers" width="320" /> 
+<img align="left" src="/img/he4rt2.png" alt="@He4rtDevelopers" width="300" /> 
 
 ```
 leoTalles@github
@@ -25,15 +34,4 @@ leoTalles@github
 🍔 Love hamburguers (I know a secret to make the best one)
 ```
 
-```
-_____________________________________
-<leoTalles as know as trustindestiny>
-------------------------------------- 
-                      __    __    __    __
-                     /  \  /  \  /  \  /  \
-____________________/  __\/  __\/  __\/  __\_____________________________
-___________________/  /__/  /__/  /__/  /________________________________
-                   | / \   / \   / \   / \  \____
-                   |/   \_/   \_/   \_/   \    o \          <-- PYTHON
-                                           \_____/--<      
-```
+[![@trustindestiny's Holopin board](https://holopin.me/trustindestiny)](https://holopin.io/@trustindestiny)
