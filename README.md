@@ -14,7 +14,7 @@ ___________________/  /__/  /__/  /__/  /________________________________
                                            \_____/--<      
 ```
 
-<img align="left" src="/img/he4rt2.png" alt="@He4rtDevelopers" width="300" /> 
+<img align="left" src="/img/he4rt2.png" alt="@He4rtDevelopers" width="350" /> 
 
 ```
 leoTalles@github
