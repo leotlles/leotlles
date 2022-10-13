@@ -2,9 +2,9 @@
 leoTalles@github:~$ ./welcome.sh
 ```
 ```
-_____________________________________
+_________________________________________________________________________
 <leoTalles as know as trustindestiny>
-------------------------------------- 
+------------------------------------------------------------------------- 
                       __    __    __    __
                      /  \  /  \  /  \  /  \
 ____________________/  __\/  __\/  __\/  __\_____________________________
@@ -19,12 +19,10 @@ ___________________/  /__/  /__/  /__/  /________________________________
 ```
 leoTalles@github
 -------------------------
-🎂 20 years old
 🏫 System Development and Analysis in @UNESA
 💌 leotalles16@gmail.com
 💻 OS: Ubuntu 20.04.5 LTS - Gnome
-🖌️ OS Theme and Icons: WhiteSur Dark, Reversal Red Dark
-🖌️ PyCharm Theme: Cyberpunk Theme
+🖌️ OS Theme and Icons: WhiteSur Dark, Reversal Red Dark, Cyberpunk Theme
 💖 Member of @He4rtDevs
 🏴 Learning about Data Science and Machine Learning stuff
 🔎 Main interests in AI and Machine Learning
