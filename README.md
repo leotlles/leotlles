@@ -14,8 +14,6 @@ ___________________/  /__/  /__/  /__/  /________________________________
                                            \_____/--<      
 ```
 
-<img align="left" src="/img/he4rt2.png" alt="@He4rtDevelopers" width="320" /> 
-
 ```
 leoTalles@github
 -------------------------
@@ -35,3 +33,5 @@ leoTalles@github
 ```
 
 [![@trustindestiny's Holopin board](https://holopin.me/trustindestiny)](https://holopin.io/@trustindestiny)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2254zodff3tnbsiqlwxsky24y&cover_image=true&theme=default&show_offline=false&bar_color=b14e9f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2254zodff3tnbsiqlwxsky24y&redirect=true)
