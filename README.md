@@ -10,7 +10,7 @@ _________________________________________________________________________
 ____________________/  __\/  __\/  __\/  __\_____________________________
 ___________________/  /__/  /__/  /__/  /________________________________
                    | / \   / \   / \   / \  \____
-                   |/   \_/   \_/   \_/   \    o \          <-- PYTHON
+                   |/   \_/   \_/   \_/   \    o \      
                                            \_____/--<      
 ```
 
@@ -19,12 +19,12 @@ leoTalles@github
 -------------------------
 🏫 System Development and Analysis in @UNESA
 💌 leotalles16@gmail.com
-💻 OS: Ubuntu 20.04.5 LTS - Gnome
-🖌️ OS Theme and Icons: WhiteSur Dark, Reversal Red Dark, Cyberpunk Theme
+💻 OS: Ubuntu 22.10 LTS - Gnome
+🖌️ OS Theme and Icons: WhiteSur Dark, Reversal Red Dark
 💖 Member of @He4rtDevs
-🏴 Learning about Data Science and Machine Learning stuff
-🔎 Main interests in AI and Machine Learning
-🐍 Stack: Python
+🏴 Learning about PHP
+🔎 I like AI and Machine Learning stuffs
+🐍 Stack: PHP, Python.
 🛰️ The 100 is underrated
 📺 Love watching animes, TV shows, NBA and Soccer (VASCO DA GAMA)
 🎵 Love rock, emotrap, r&b and rap
