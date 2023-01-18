@@ -3,7 +3,7 @@ leoTalles@github:~$ ./welcome.sh
 ```
 ```
 _________________________________________________________________________
-<leoTalles as know as trustindestiny>
+<leotlles as know as trustindestiny>
 ------------------------------------------------------------------------- 
                       __    __    __    __
                      /  \  /  \  /  \  /  \
@@ -15,17 +15,15 @@ ___________________/  /__/  /__/  /__/  /________________________________
 ```
 
 ```
-leoTalles@github
+leotlles@github
 -------------------------
 🏫 System Development and Analysis in @UNESA
 💌 leotalles16@gmail.com
-💻 OS: Ubuntu 22.10 LTS - Gnome
-🖌️ OS Theme and Icons: WhiteSur Dark, Reversal Red Dark
+💻 OS: Xubuntu 22.04.1 LTS x86_64
+🖌️ OS Theme and Icons: Qogir-dark, Qogir
 💖 Member of @He4rtDevs
 🏴 Learning about PHP
-🔎 I like AI and Machine Learning stuffs
 🐍 Stack: PHP, Python.
-🛰️ The 100 is underrated
 📺 Love watching animes, TV shows, NBA and Soccer (VASCO DA GAMA)
 🎵 Love rock, emotrap, r&b and rap
 🎮 Love indie 2d games like Stardew Valley, Blasphemous, etc
