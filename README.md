@@ -20,6 +20,7 @@ leotlles@github
 🏫 System Development and Analysis in @UNESA
 💌 leotalles16@gmail.com
 💻 OS: Xubuntu 22.04.1 LTS x86_64
+💻 OS configs: I3 5005u, Intel HD Graphics 5500, 4gb :'(
 🖌️ OS Theme and Icons: Qogir-dark, Qogir
 💖 Member of @He4rtDevs
 🏴 Learning about PHP
