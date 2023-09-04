@@ -23,8 +23,8 @@ leotlles@github
 💻 OS configs: I3 5005u, Intel HD Graphics 5500, 4gb :'(
 🖌️ OS Theme and Icons: Qogir-dark, Qogir
 💖 Member of @He4rtDevs
-🏴 Learning about PHP
-🐍 Stack: PHP, Python.
+🏴 Learning about Java at the moment
+🐍 Stack: Java, Python
 📺 Love watching animes, TV shows, NBA and Soccer (VASCO DA GAMA)
 🎵 Love rock, emotrap, r&b and rap
 🎮 Love indie 2d games like Stardew Valley, Blasphemous, etc
