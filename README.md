@@ -6,11 +6,9 @@
 
 - 📚 Análise e Desenvolvimento de Sistemas em @UNESA
 - 💖 Membro em @He4rtDevs 
-- 👨‍💻 Stack: Java, Python, SQL.
+- 👨‍💻 Stack: Python, SQL.
 - 🎵 Love rock, emotrap, r&b and rap
-- 💻 OS: Xubuntu 22.04.1 LTS x86_64
-- 💻 OS configs: I3 5005u, Intel HD Graphics 5500, 4gb :'(
-- 🖌️ OS Theme/Icons: Qogir-dark, Qogir
+- 💻 CPU settings: I3 5005u, Intel HD Graphics 5500, 4gb :'(
 
 ---
 
@@ -18,7 +16,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/2254zodff3tnbsiqlwxsky24y)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2254zodff3tnbsiqlwxsky24y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
@@ -46,9 +44,7 @@
 
 ### Skills and Tools 🛠 
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![OS](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
