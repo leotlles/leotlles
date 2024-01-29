@@ -8,7 +8,7 @@
 - 💖 Membro em @He4rtDevs 
 - 👨‍💻 Stack: Python, SQL.
 - 🎵 Love rock, emotrap, r&b and rap
-- 💻 CPU settings: I3 5005u, Intel HD Graphics 5500, 4gb :'(
+- 💻 PC settings: Ryzen 5 4600g, 16gb ram
 
 ---
 
